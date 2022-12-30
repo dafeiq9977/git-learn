@@ -1,2 +1,4 @@
 this is file2.txt
 master add one line
+branch2 add something
+merge no-ff branch2 to master
